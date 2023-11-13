@@ -1,7 +1,7 @@
 :root {
   /* colours */
   --background-color: rgb(65,105,225);
-  --text-color: rgb(214, 12, 150);
+  --text-color: rgba(214, 12, 150, 0);
   --header-color: rgb(214, 12, 150);
 
   /* typography */
